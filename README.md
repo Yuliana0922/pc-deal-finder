@@ -18,8 +18,7 @@ The initial scope wanted to use Ebay's Finding API to calculate the average pric
 
 ## Installation
 1. Clone this repository:
-   ```git clone https://github.com/YOUR_GITHUB_USERNAME/pc-part-deal-notifier.git
-   cd pc-part-deal-notifier```
+   ```git clone https://github.com/YOUR_GITHUB_USERNAME/pc-part-deal-notifier.git cd pc-part-deal-notifier```
    
 2. Install the necessary dependencies:
      ```pip install -r requirements.txt```
